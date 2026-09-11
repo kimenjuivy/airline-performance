@@ -3,4 +3,4 @@ data/processed/
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
-.env
+.env"powerbi/Powerbi airports.pbix" 
